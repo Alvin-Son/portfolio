@@ -10,6 +10,17 @@
 - **California State University, Fullerton**  
   B.A. in Psychology
 
+## Projects
+### California Fire Analysis (2024)
+[GitHub Link](https://github.com/Alvin-Son/project_1_WC_fire_analysis)
+
+Analyzed over 2,000 records of wildfire and climate data from Cal Fire and NOAA to evaluate the impact of monthly rainfall and temperature on wildfire occurrences across California (2013–2024). Created data visualizations with Python (Pandas, Matplotlib, Geopandas) to reveal correlations between climate patterns and fire frequency. Identified key environmental factors contributing to fire risks, with findings aimed at supporting data-driven environmental policy recommendations.
+
+### The Data Behind Olympic Performance (2024)
+[GitHub Link](https://github.com/Alvin-Son/Project_Olympian)
+
+Investigated the influence of economic, political, and health indicators on Olympic performance using integrated datasets from the OECD, World Bank, and Kaggle. Developed predictive models with Python (Pandas, Scikit-learn, TensorFlow) to analyze how national development factors correlate with medal outcomes. Designed interactive Tableau dashboards to communicate results effectively, providing a tool for exploring the global dynamics affecting Olympic success.
+
 ## Work Experience
 
 **Professor Assistant @ CSUF Psychology Department (_2022 - 2023_)**
@@ -25,10 +36,4 @@
 - Collaborated with over 50 doctors and dentists nationwide to design and fabricate personalized dental prostheses.
 - Designed and executed over 2,000 individual implant cases, contributing significantly to company success as the youngest team member.
 
-## Projects
-### California Fire Analysis (2024)
-[GitHub Link](https://github.com/Alvin-Son/project_1_WC_fire_analysis)
 
-Analyzed the influence of monthly rainfall and temperature on wildfire frequency across California (2013-2024) using data from Cal Fire and NOAA.
-Processed 2,000+ fire and climate records for trend analysis, uncovering key patterns.
-Created visualizations with Python (Pandas, Matplotlib, Geopandas) to identify correlations and propose environmental factors affecting fire occurrences. 
