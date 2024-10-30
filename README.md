@@ -17,8 +17,8 @@
 Analyzed over 2,000 records of wildfire and climate data from Cal Fire and NOAA to evaluate the impact of monthly rainfall and temperature on wildfire occurrences across California (2013–2024). Created data visualizations with Python (Pandas, Matplotlib, Geopandas) to reveal correlations between climate patterns and fire frequency. Identified key environmental factors contributing to fire risks, with findings aimed at supporting data-driven environmental policy recommendations.
 
 <p align="center">
-  <img src="/IMG/istockphoto-1327417801-612x612.jpg" alt="Fire" width="45%">
-  <img src="/IMG/WC_Fire.JPG" alt="CAmap" width="45%">
+  <img src="IMG/istockphoto-1327417801-612x612.jpg" alt="Fire" width="45%">
+  <img src="IMG/WC_Fire.JPG" alt="CAmap" width="45%">
 </p>
 
 ### The Data Behind Olympic Performance (2024)
