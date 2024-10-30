@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, Excel, Tableau
 
 ## Education
-- Certification, Data Analytics | University of California, Berkeley
-- B.A., Psychology | California State University, Fullerton
+- Data Analytics Certification | University of California, Berkeley 								       		
+- B.A., Psychology	| California State University, Fullerton	 			      
 
 ## Work Experience
 
