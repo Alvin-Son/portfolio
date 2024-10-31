@@ -27,7 +27,7 @@ Analyzed over 2,000 records of wildfire and climate data from Cal Fire and NOAA 
 Investigated the influence of economic, political, and health indicators on Olympic performance using integrated datasets from the OECD, World Bank, and Kaggle. Developed predictive models with Python (Pandas, Scikit-learn, TensorFlow) to analyze how national development factors correlate with medal outcomes. Designed interactive Tableau dashboards to communicate results effectively, providing a tool for exploring the global dynamics affecting Olympic success.
 
 <p align="center">
-  <img src="IMG/Olympic_rings_without_rims.svg.png" alt="Olympics" width="80%">
+  <img src="IMG/Olympic_rings_without_rims.svg.png" alt="Olympics" width="65%">
 </p>
 
 ## Work Experience
