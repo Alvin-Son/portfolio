@@ -3,8 +3,3 @@ logo: /IMG/blank-profile-picture-973460_960_720.png
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
-
-# Custom fields
-languages:
-  - English
-  - Korean
