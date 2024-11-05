@@ -1,5 +1,5 @@
 title: Alvin Son
 logo: /IMG/blank-profile-picture-973460_960_720.png
 #description: text below image
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal
